@@ -8,7 +8,7 @@
 
 - 🔭  I’m currently working on an e-learning web site 
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, JAVA, PHP**
+- 🌱 I’m currently learning **Data Structures, Algorithms, JAVA**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
